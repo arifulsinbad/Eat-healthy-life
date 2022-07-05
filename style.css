@@ -1,5 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.salam{
+    font-size: 50px;
+    margin-left: 5%;
+    margin-top: 100px;
 }
 .skip{
     color: orangered;
@@ -16,7 +22,7 @@ h1{
 
     
 .img{
-    width: 600px;
+    width: 580px;
     margin-right: 5%;
 
     
@@ -80,16 +86,52 @@ h1{
     
 }
 .sawdo{
-    box-shadow: 10px 10px 40px;
+    box-shadow: 10px 10px 40px rgb(197, 197, 197);
     margin-left: 5%;
     margin-right: 5%;
    
     margin-top: 5%;
     padding-left: 20px;
     padding-bottom: 20px;
+    border-radius: 50px;
 }
-#fast-id{
-    padding: auto;
+.sfl{
+    display: flex;
+    box-shadow: 5px 5px 100px rgb(214, 209, 209);
+    margin-left: 9%;
+    margin-right: 8%;
+   
+    margin-top: 7%;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+    margin-bottom: 8%;
 }
+    
+
+.like{
+    margin-left: 223px;
+
+}
+.center{
+    font-size: 34px;
+}
+.small{
+    padding-right: 10px;
+}
+.end{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+   
+}
+footer{
+    background-color:  black;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    margin: 0%;
+}
+
+
 
 
